@@ -1,4 +1,4 @@
-* Mô tả tường bước để chạy :
+* Mô tả tưng bước để chạy :
   + Import project vào eclipse với Maven project
   + Run Application.java hoặc run project với Spring Boot
   + API chỉnh sửa cấu hình tích điểm :
